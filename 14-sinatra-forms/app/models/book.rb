@@ -1,2 +1,2 @@
-class Book < ActiveRecord::Base
+class Character < ActiveRecord::Base
 end
